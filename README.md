@@ -1,4 +1,6 @@
-<img src="https://vistapointe.net/images/unity-wallpaper-1.jpg" alt="Background image of the project"/>
+<p align="center">
+ <img align="center" src="https://vistapointe.net/images/unity-wallpaper-1.jpg" width="500"/>
+</p>
 
 ## Overview 
 <div>
@@ -7,6 +9,7 @@
 </div>
 
 ## About
+Galaxy shooter is a simple game where you control a spaceship that shoots against the enemies. You can catch up power-ups to get triple shots, increase your speed, and defense.<br/>
 This project was developed during the course "__[O Guia Definitivo para Desenvolvimento de Jogos com Unity](https://www.udemy.com/course/o-guia-definitivo-para-desenvolvimento-de-jogos-com-unity/)__" to study and understand the basic concepts about the Unity.
 
 ## Technologies 
@@ -20,4 +23,4 @@ This project was built with:
  4. Push your branch: ```git push origin my-feature```
  
 ## License
-This project is under the MIT license. Take a look at the [LICENSE](LICENSE.md) file for more details.
+This project is under the MIT license. Take a look at the [LICENSE](LICENSE) file for more details.
