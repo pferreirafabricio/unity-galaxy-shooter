@@ -10,7 +10,7 @@
 
 ## About
 Galaxy shooter is a simple game where you control a spaceship that shoots against the enemies. You can catch up power-ups to get triple shots, increase your speed, and defense.<br/>
-This project was developed during the course "__[O Guia Definitivo para Desenvolvimento de Jogos com Unity](https://www.udemy.com/course/o-guia-definitivo-para-desenvolvimento-de-jogos-com-unity/)__" to study and understand the basic concepts about the Unity.
+This project was developed during the course "__[O Guia Definitivo para Desenvolvimento de Jogos com Unity](https://www.udemy.com/course/o-guia-definitivo-para-desenvolvimento-de-jogos-com-unity/)__".
 
 ## Technologies 
 This project was built with:
